@@ -37,6 +37,8 @@ namespace DatabaseManager
                     {
                         while (reader.Read())
                         {
+
+                            //test
                             yield return make(reader);
                         }
                     }
