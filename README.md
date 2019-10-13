@@ -1,4 +1,5 @@
 # CSharp-Database-Manager
-Connect To Database on C#
+ASP.Net has the ability to work with different types of databases. It can work with the most common databases such as Oracle and Microsoft SQL Server.
 
-Ability To connect to database using c# and .Net 4.0 or above
+**Requirement:**
+ASP.NET 4.0 or Above 
